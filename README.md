@@ -13,7 +13,7 @@ Spring Boot application successfully running with REST API endpoint!
 ### How to Run:
 1. Clone repository
 2. Run: `./mvnw spring-boot:run`
-3. Visit: `http://localhost:[port]/hello`
+3. Visit: `http://localhost:9090/hello`
 
 ### Technologies:
 - Java 17, Spring Boot, H2 Database
