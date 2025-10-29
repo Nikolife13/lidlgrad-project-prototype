@@ -18,3 +18,10 @@ Spring Boot application successfully running with REST API endpoint!
 ### Technologies:
 - Java 17, Spring Boot, H2 Database
 - Spring Data JPA, Maven, Git
+
+##  Demo Screenshots
+### Spring Boot Application Running:
+![Spring Boot Console](screenshots/LidlAPP.jpg)
+
+### Working REST API:
+![API Response](screenshots/LidlAPP3.jpg)
